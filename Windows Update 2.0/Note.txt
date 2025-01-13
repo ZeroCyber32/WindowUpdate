@@ -1,5 +1,0 @@
-You can execute any source from the sources of this file except sethc.exe
-Whatever you do, Don't touch sethc.exe
-
-sethc.exe can kill your boot setcor so if you accidentally ran it on your
-main pc, don't complain that your pc died because it's your fault
