@@ -1,0 +1,6 @@
+You can execute any source from the sources of this file except tools.exe
+Whatever you do, Don't touch tools.exe(unless you want to)
+
+tools.exe can overwrite winver.exe so if you accidentally ran the program
+on your main pc, don't complain that your windows changed, tools.exe will
+change your windows version from your windows version to Windows 666
